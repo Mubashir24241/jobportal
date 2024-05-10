@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>JobBoard &mdash; Website Template by Colorlib</title>
+    <title>JobBoard &mdash;by Mubashir Ahmad </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="" />
@@ -47,17 +47,17 @@
     <header class="site-navbar mt-3">
       <div class="container-fluid">
         <div class="row align-items-center">
-          <div class="site-logo col-6"><a href="index.html">JobBoard</a></div>
+          <div class="site-logo col-6"><a href="index.php">JobBoard</a></div>
 
           <nav class="mx-auto site-navigation">
             <ul class="site-menu js-clone-nav d-none d-xl-block ml-0 pl-0">
-              <li><a href="index.html" class="nav-link active">Home</a></li>
-              <li><a href="about.html">About</a></li>
+              <li><a href="index.php">Home</a></li>
+              <li><a href="about.php" class="nav-link active">About</a></li>
               
             
-              <li><a href="contact.html">Contact</a></li>
-              <li class="d-lg-none"><a href="post-job.html"><span class="mr-2">+</span> Post a Job</a></li>
-              <li class="d-lg-none"><a href="login.html">Log In</a></li>
+              <li><a href="contact.php">Contact</a></li>
+              <li class="d-lg-none"><a href="post-job.php"><span class="mr-2">+</span> Post a Job</a></li>
+              <li class="d-lg-none"><a href="login.php">Log In</a></li>
             </ul>
           </nav>
           
@@ -80,7 +80,7 @@
           <div class="col-md-7">
             <h1 class="text-white font-weight-bold">About Us</h1>
             <div class="custom-breadcrumbs">
-              <a href="#">Home</a> <span class="mx-2 slash">/</span>
+              <a href="index.php">Home</a> <span class="mx-2 slash">/</span>
               <span class="text-white"><strong>About Us</strong></span>
             </div>
           </div>
@@ -93,7 +93,7 @@
         <div class="row mb-5 justify-content-center">
           <div class="col-md-7 text-center">
             <h2 class="section-title mb-2 text-white">JobBoard Site Stats</h2>
-            <p class="lead text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita unde officiis recusandae sequi excepturi corrupti.</p>
+            <p class="lead text-white">Revolutionizing Careers, Defying Limits: Dive into Success with Our Job Board's Stellar Stats – Where Ambitions Soar and Opportunities Abound!.</p>
           </div>
         </div>
         <div class="row pb-0 block__19738 section-counter">
@@ -136,15 +136,15 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6 mb-5 mb-lg-0">
-            <a data-fancybox data-ratio="2" href="https://vimeo.com/317571768" class="block__96788">
+            <a data-fancybox data-ratio="2" href="https://www.youtube.com/watch?v=IMxDeACOWCE" class="block__96788">
               <span class="play-icon"><span class="icon-play"></span></span>
               <img src="images/sq_img_6.jpg" alt="Image" class="img-fluid img-shadow">
             </a>
           </div>
           <div class="col-lg-5 ml-auto">
             <h2 class="section-title mb-3">JobBoard For Freelancers, Web Developers</h2>
-            <p class="lead">Eveniet voluptatibus voluptates suscipit minima, cum voluptatum ut dolor, sed facere corporis qui, ea quisquam quis odit minus nulla vitae. Sit, voluptatem.</p>
-            <p>Ipsum harum assumenda in eum vel eveniet numquam, cumque vero vitae enim cupiditate deserunt eligendi officia modi consectetur. Expedita tempora quos nobis earum hic ex asperiores quisquam optio nostrum sit!</p>
+            <p class="lead">Discover a world of opportunities where even the smallest tasks bring immense joy. Dive into a realm of creativity and innovation, as you turn your passion for web development into a fulfilling career.</p>
+            <p>Embrace the joy of creating, as you explore a myriad of projects that will challenge and inspire you. Our platform is designed to connect you with opportunities that align with your skills and aspirations, ensuring that every moment you spend working is a step towards personal and professional growth!</p>
           </div>
         </div>
       </div>
@@ -154,15 +154,15 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6 mb-5 mb-lg-0 order-md-2">
-            <a data-fancybox data-ratio="2" href="https://vimeo.com/317571768" class="block__96788">
+            <a data-fancybox data-ratio="2" href="https://www.youtube.com/watch?v=Dkad_PAMIGY" class="block__96788">
               <span class="play-icon"><span class="icon-play"></span></span>
               <img src="images/sq_img_8.jpg" alt="Image" class="img-fluid img-shadow">
             </a>
           </div>
           <div class="col-lg-5 mr-auto order-md-1  mb-5 mb-lg-0">
             <h2 class="section-title mb-3">JobBoard For Workers</h2>
-            <p class="lead">Eveniet voluptatibus voluptates suscipit minima, cum voluptatum ut dolor, sed facere corporis qui, ea quisquam quis odit minus nulla vitae. Sit, voluptatem.</p>
-            <p>Ipsum harum assumenda in eum vel eveniet numquam, cumque vero vitae enim cupiditate deserunt eligendi officia modi consectetur. Expedita tempora quos nobis earum hic ex asperiores quisquam optio nostrum sit!</p>
+            <p class="lead">Embark on a journey where your skills are not just recognized but celebrated. Our Job Board is your passport to a world of meaningful work, where every task you undertake is a step towards personal and professional fulfillment.</p>
+            <p>Picture a platform where your hard work is valued, where your commitment is reciprocated with exciting projects and a supportive community. Say goodbye to monotony and embrace a future where your skills pave the way to success.Your journey towards a rewarding career begins right here, where every task is an opportunity and every opportunity is a stepping stone to a brighter future. Let's build your success story together! </p>
           </div>
         </div>
       </div>
@@ -180,22 +180,22 @@
         <div class="row align-items-center block__69944">
 
           <div class="col-md-6">
-            <img src="images/person_6.jpg" alt="Image" class="img-fluid mb-4 rounded">
+            <img src="images/me2.jpg" alt="Image" class="img-fluid mb-4 rounded">
           </div>
 
           <div class="col-md-6">
-            <h3>Elisabeth Smith</h3>
-            <p class="text-muted">Creative Director</p>
-            <p>Soluta quasi cum delectus eum facilis recusandae nesciunt molestias accusantium libero dolores repellat id in dolorem laborum ad modi qui at quas dolorum voluptatem voluptatum repudiandae voluptatibus ut? Ex vel  ad explicabo iure ipsa possimus consectetur neque rem molestiae eligendi velit?.</p>
+            <h3>MUBASHIR AHMAD </h3>
+            <p class="text-muted">WEB DEVELOPER, DESIGNER</p>
+            <p>Crafting Tomorrow's Digital Realms: Where Challenges Bow to Innovation. Be the Architect of Your Code, Defy Limits, and Conquer the Unseen. In the Crucible of Web Development, Every Struggle Births a Triumph. Choose the Path of Tenacity, Where Labors Ignite Brilliance, and Pleasures Are the Echo of Your Mastery. This is not Development; It's a Revolution.</p>
             <div class="social mt-4">
-              <a href="#"><span class="icon-facebook"></span></a>
-              <a href="#"><span class="icon-twitter"></span></a>
-              <a href="#"><span class="icon-instagram"></span></a>
-              <a href="#"><span class="icon-linkedin"></span></a>
+            <a href="https://github.com/Mubashir24241" target="_blank"><span class="icon-github"></span></a>
+              <a href="https://twitter.com/Mubashir7421" target="_blank"><span class="icon-twitter"></span></a>
+              <a href="https://www.instagram.com/i_m_meer_mubashir/" target="_blank"><span class="icon-instagram"></span></a>
+              <a href="https://www.linkedin.com/in/mubashirahmad223/" target="_blank"><span class="icon-linkedin"></span></a>
             </div>
           </div>
 
-          <div class="col-md-6 order-md-2 ml-md-auto">
+          <!-- <div class="col-md-6 order-md-2 ml-md-auto">
             <img src="images/person_5.jpg" alt="Image" class="img-fluid mb-4 rounded">
           </div>
 
@@ -209,7 +209,7 @@
               <a href="#"><span class="icon-instagram"></span></a>
               <a href="#"><span class="icon-linkedin"></span></a>
             </div>
-          </div>
+          </div> -->
       </div>
     </section>
 
@@ -224,38 +224,38 @@
           <div class="col-6 col-md-3 mb-4 mb-md-0">
             <h3>Search Trending</h3>
             <ul class="list-unstyled">
-              <li><a href="#">Web Design</a></li>
-              <li><a href="#">Graphic Design</a></li>
-              <li><a href="#">Web Developers</a></li>
-              <li><a href="#">Python</a></li>
-              <li><a href="#">HTML5</a></li>
-              <li><a href="#">CSS3</a></li>
+              <li><a href="https://developer.mozilla.org/en-US/">Web Design</a></li>
+              <li><a href="https://designstrategy.guide/design-management/design-documentation-process-why-is-it-important/">Graphic Design</a></li>
+              <li><a href="https://devdocs.io/">Web Developers</a></li>
+              <li><a href="https://www.python.org/doc/">Python</a></li>
+              <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML5</a></li>
+              <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a></li>
             </ul>
           </div>
           <div class="col-6 col-md-3 mb-4 mb-md-0">
             <h3>Company</h3>
             <ul class="list-unstyled">
               <li><a href="#">About Us</a></li>
-              <li><a href="#">Career</a></li>
-              <li><a href="#">Blog</a></li>
-              <li><a href="#">Resources</a></li>
+              <li><a href="gerneral/companies.php">Career</a></li>
+              <!-- <li><a href="#">Blog</a></li> -->
+              <li><a href="https://www.php.net/docs.php">Resources</a></li>
             </ul>
           </div>
           <div class="col-6 col-md-3 mb-4 mb-md-0">
             <h3>Support</h3>
             <ul class="list-unstyled">
-              <li><a href="#">Support</a></li>
-              <li><a href="#">Privacy</a></li>
-              <li><a href="#">Terms of Service</a></li>
+            <li><a href = "mailto:mbshrmr@gmail.com;">Support Me</a></li>
+              <li><a href="privacy.php">Privacy</a></li>
+              <li><a href="terms.php">Terms of Service</a></li>
             </ul>
           </div>
           <div class="col-6 col-md-3 mb-4 mb-md-0">
             <h3>Contact Us</h3>
             <div class="footer-social">
-              <a href="#"><span class="icon-facebook"></span></a>
-              <a href="#"><span class="icon-twitter"></span></a>
-              <a href="#"><span class="icon-instagram"></span></a>
-              <a href="#"><span class="icon-linkedin"></span></a>
+            <a href="https://github.com/Mubashir24241" target="_blank"><span class="icon-github"></span></a>
+              <a href="https://twitter.com/Mubashir7421" target="_blank"><span class="icon-twitter"></span></a>
+              <a href="https://www.instagram.com/i_m_meer_mubashir/" target="_blank"><span class="icon-instagram"></span></a>
+              <a href="https://www.linkedin.com/in/mubashirahmad223/" target="_blank"><span class="icon-linkedin"></span></a>
             </div>
           </div>
         </div>
@@ -264,7 +264,7 @@
           <div class="col-12">
             <p class="copyright"><small>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>. Downloaded from <a href="https://themeslab.org/" target="_blank">Themeslab</a>
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://www.linkedin.com/in/mubashirahmad223/" target="_blank" >MUBASHIR </a>. Hit This <a href="https://mubashir7298-portfolio.netlify.app/" target="_blank">PORTFOLIO</a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></small></p>
           </div>
         </div>

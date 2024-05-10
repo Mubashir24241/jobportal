@@ -72,7 +72,12 @@
                   
                   <!-- Password input -->
                   <div class="form-outline mb-4">
-                    <input type="password" name="password" id="form2Example2" placeholder="Password" class="form-control" />
+                  <div class="input-group">
+                            <input type="password" name="password" id="form2Example2" placeholder="Password" class="form-control" />
+                            <button type="button" class="btn btn-outline-secondary" id="showPasswordButton">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                        </div>
                     
                   </div>
 
@@ -89,3 +94,13 @@
      </div>
 </div>
 <?php require "../layouts/footer.php"; ?>           
+
+                
+                    <!-- <div class="form-outline mb-4">
+                        <div class="input-group">
+                            <input type="password" name="password" id="form2Example2" placeholder="Password" class="form-control" />
+                            <button type="button" class="btn btn-outline-secondary" id="showPasswordButton">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                        </div>
+                    </div> -->

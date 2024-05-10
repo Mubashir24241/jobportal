@@ -18,14 +18,14 @@
 
 ?>
     <!-- HOME -->
-    <section class="home-section section-hero overlay bg-image" style="background-image: url('images/hero_1.jpg');" id="home-section">
+    <section class="home-section section-hero overlay bg-image" style="background-image: url('images/hero_00.webp');" id="home-section">
 
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-12">
             <div class="mb-5 text-center">
-              <h1 class="text-white font-weight-bold">The Easiest Way To Get Your Dream Job</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est, consequuntur perferendis.</p>
+            <h1 class="text-white font-weight-bold">The Easiest Way To Get Your Dream Job</h1>
+              <p>"Your Dream Job Awaits: Effortless Job Hunting, Exceptional Results!"</p>
             </div>
             <form method="post" action="search.php" class="search-jobs-form">
               <div class="row mb-5">
@@ -34,15 +34,19 @@
                 </div>
                 <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
                   <select name="job-region" class="selectpicker" data-style="btn-white btn-lg" data-width="100%" data-live-search="true" title="Select Region">
-                    <option>Anywhere</option>
-                    <option>San Francisco</option>
-                    <option>Palo Alto</option>
-                    <option>New York</option>
-                    <option>Manhattan</option>
-                    <option>Ontario</option>
-                    <option>Toronto</option>
-                    <option>Kansas</option>
-                    <option>Mountain View</option>
+                  <option>Pan India</option>
+                    <option>Delhi</option>
+                    <option>Banglore</option>
+                    <option>Noida</option>
+                    <option>chandigarh</option>
+                    <option>karnatka</option>
+                    <option>south india</option>
+                    <option>Uttar pradesh</option>
+                    <option>kerala</option>
+                    <option>Uttrakhand</option>
+                    <option>south delhi</option>
+                    <option>USA</option>
+                    <option>Jammu and kashmir</option>
                   </select>
                 </div>
                 <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
@@ -81,7 +85,7 @@
         <div class="row mb-5 justify-content-center">
           <div class="col-md-7 text-center">
             <h2 class="section-title mb-2 text-white">JobBoard Site Stats</h2>
-            <p class="lead text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita unde officiis recusandae sequi excepturi corrupti.</p>
+            <p class="lead text-white">Revolutionizing Careers, Defying Limits: Dive into Success with Our Job Board's Stellar Stats – Where Ambitions Soar and Opportunities Abound!</p>
           </div>
         </div>
         <div class="row pb-0 block__19738 section-counter">
@@ -95,7 +99,7 @@
 
           <div class="col-6 col-md-6 col-lg-3 mb-5 mb-lg-0">
             <div class="d-flex align-items-center justify-content-center mb-2">
-              <strong class="number" data-number="54">0</strong>
+              <strong class="number" data-number="57">0</strong>
             </div>
             <span class="caption">Jobs Posted</span>
           </div>
@@ -135,7 +139,7 @@
             <li class="job-listing d-block d-sm-flex pb-3 pb-sm-0 align-items-center">
               <a href="jobs/job-single.php?id=<?php echo $job->id; ?>"></a>
               <div class="job-listing-logo">
-                <img src="users/user-images/<?php echo $job->company_image; ?>" alt="<?php echo $job->company_image; ?>" class="img-fluid">
+                <img src="users//user-images/WC.jpg      <?php echo $job->company_image; ?>" alt="<?php echo $job->company_image; ?>" class="img-fluid">
               </div>
 
               <div class="job-listing-about d-sm-flex custom-width w-100 justify-content-between mx-4">
@@ -171,10 +175,10 @@
         <div class="row align-items-center">
           <div class="col-md-8">
             <h2 class="text-white">Looking For A Job?</h2>
-            <p class="mb-0 text-white lead">Lorem ipsum dolor sit amet consectetur adipisicing elit tempora adipisci impedit.</p>
+            <p class="mb-0 text-white lead">Embark on Your Career Journey with Us! Seamless Sign-up for Limitless Opportunities</p>
           </div>
           <div class="col-md-3 ml-auto">
-            <a href="#" class="btn btn-warning btn-block btn-lg">Sign Up</a>
+            <a href="auth\register.php" class="btn btn-warning btn-block btn-lg">Sign Up</a>
           </div>
         </div>
       </div>
@@ -188,8 +192,8 @@
           <div class="col-12 text-center mt-4 mb-5">
             <div class="row justify-content-center">
               <div class="col-md-7">
-                <h2 class="section-title mb-2">Company We've Helped</h2>
-                <p class="lead">Porro error reiciendis commodi beatae omnis similique voluptate rerum ipsam fugit mollitia ipsum facilis expedita tempora suscipit iste</p>
+                <h2 class="section-title mb-2">Companies We've Empowered to Thrive</h2>
+                <p class="lead">Embrace the Rewards of Collaboration and Unlock a World of Opportunities</p>
               </div>
             </div>
             
@@ -233,8 +237,8 @@
             <div class="row">
               <div class="col-lg-6 align-self-center text-center text-lg-left">
                 <blockquote>
-                  <p>&ldquo;Soluta quasi cum delectus eum facilis recusandae nesciunt molestias accusantium libero dolores repellat id in dolorem laborum ad modi qui at quas dolorum voluptatem voluptatum repudiandae.&rdquo;</p>
-                  <p><cite> &mdash; Corey Woods, @Dribbble</cite></p>
+                  <p>&ldquo;The solutions are almost like when one chooses, they are easy to refuse, ignorant of troubles, free from accusations, pains repelled, in sorrow of labor, in such a way as those who, at what times, the delights of pain, and the denials of pleasures.&rdquo;</p>
+                  <p><cite> &mdash; Corey Woods, @Deloitte</cite></p>
                 </blockquote>
               </div>
               <div class="col-lg-6 align-self-end text-center text-lg-right">
@@ -247,12 +251,12 @@
             <div class="row">
               <div class="col-lg-6 align-self-center text-center text-lg-left">
                 <blockquote>
-                  <p>&ldquo;Soluta quasi cum delectus eum facilis recusandae nesciunt molestias accusantium libero dolores repellat id in dolorem laborum ad modi qui at quas dolorum voluptatem voluptatum repudiandae.&rdquo;</p>
-                  <p><cite> &mdash; Chris Peters, @Google</cite></p>
+                  <p>&ldquo;Solutions, as if when chosen, are easy to refuse, unaware of troubles, accusations free, repelling pains, into the sorrow of labor, in such a way as those who, at what times, deny the pleasure of pains and pleasures&rdquo;</p>
+                  <p><cite> &mdash; Sofia, @Google</cite></p>
                 </blockquote>
               </div>
               <div class="col-lg-6 align-self-end text-center text-lg-right">
-                <img src="images/person_transparent.png" alt="Image" class="img-fluid mb-0">
+                <img src="images/new121.png" alt="Image" class="img-fluid mb-0">
               </div>
             </div>
           </div>
@@ -265,8 +269,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 align-self-center text-center text-md-left mb-5 mb-md-0">
-            <h2 class="text-white">Get The Mobile Apps</h2>
-            <p class="mb-5 lead text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit tempora adipisci impedit.</p>
+            <h2 class="section-title mb-2">Get The Mobile Apps</h2>
+            <p class="mb-5 lead text-white">Seize Your Career on the Go! Download Our Mobile Apps for Android and iOS – Your Gateway to Instant Job Opportunities, Anytime, Anywhere.</p>
             <p class="mb-0">
               <a href="#" class="btn btn-dark btn-md px-4 border-width-2"><span class="icon-apple mr-3"></span>App Store</a>
               <a href="#" class="btn btn-dark btn-md px-4 border-width-2"><span class="icon-android mr-3"></span>Play Store</a>
