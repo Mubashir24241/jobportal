@@ -19,11 +19,11 @@
         echo $e->getMessage();
     }
    
-    if($conn == true) {
-        echo "connected successfully";
-    } else {
-        echo "error";
-    }
+    // if($conn == true) {
+    //     echo "connected successfully";
+    // } else {
+    //     echo "error";
+    // }
 
 
 
