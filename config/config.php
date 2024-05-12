@@ -22,7 +22,7 @@
     // if($conn == true) {
     //     echo "connected successfully";
     // } else {
-    //     echo "error";
+    //     echo "err";
     // }
 
 
